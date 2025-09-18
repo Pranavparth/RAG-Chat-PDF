@@ -1,5 +1,3 @@
-# 1️⃣ Create README.md
-cat <<EOL > README.md
 # RAG-Chat-PDF 📄💬
 
 A lightweight **Retrieval-Augmented Generation (RAG)** project that lets you **upload PDFs** and ask questions about them using **LLM embeddings + Pinecone vector DB + Streamlit frontend**.
